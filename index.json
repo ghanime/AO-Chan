@@ -1,0 +1,18 @@
+{
+    "Indexes":[
+        "https://raw.githubusercontent.com/ghanime/AO-Chan/main/Episode%201/index.mpd",
+        "https://raw.githubusercontent.com/ghanime/AO-Chan/main/Episode%202/index.mpd"
+    ],
+    "NotImplemented":[
+        "https://raw.githubusercontent.com/ghanime/AO-Chan/main/Episode%203/index.mpd",
+        "https://raw.githubusercontent.com/ghanime/AO-Chan/main/Episode%204/index.mpd",
+        "https://raw.githubusercontent.com/ghanime/AO-Chan/main/Episode%205/index.mpd",
+        "https://raw.githubusercontent.com/ghanime/AO-Chan/main/Episode%206/index.mpd",
+        "https://raw.githubusercontent.com/ghanime/AO-Chan/main/Episode%207/index.mpd",
+        "https://raw.githubusercontent.com/ghanime/AO-Chan/main/Episode%208/index.mpd",
+        "https://raw.githubusercontent.com/ghanime/AO-Chan/main/Episode%209/index.mpd",
+        "https://raw.githubusercontent.com/ghanime/AO-Chan/main/Episode%2010/index.mpd",
+        "https://raw.githubusercontent.com/ghanime/AO-Chan/main/Episode%2011/index.mpd",
+        "https://raw.githubusercontent.com/ghanime/AO-Chan/main/Episode%2012/index.mpd"
+    ]
+}
